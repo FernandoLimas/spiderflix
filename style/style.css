@@ -57,7 +57,7 @@ header nav a:hover{
   justify-content: center;
   align-items: flex-start;
 
-  background: linear-gradient(rgba(0,0,0,.50),rgba(0, 0, 0, 0.5)), url("/img/post-marvel-spiderMan3.jpg");
+  background: linear-gradient(rgba(0,0,0,.50),rgba(0, 0, 0, 0.5)), url("/img/post-spiderManBack.jpg");
   background-size: cover;
   /* background-repeat: no-repeat; */
 }
